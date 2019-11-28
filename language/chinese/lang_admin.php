@@ -1,4 +1,4 @@
-?><?php
+<?php
 //中文翻译:ziggear
 //你可以自由修改和发布，但不要删除注释和作者信息。
 
@@ -313,3 +313,4 @@ $language['MHI_IT'] = '这个';//"it"
 $language['MHI_REPLACE'] = '替换为';//"Replace with"
 $language['MHI_COPY'] = '复制';
 $language['MHI_AS'] = '为';//“as”
+?>
